@@ -1,0 +1,8 @@
+[package]
+name = "buccaneer"
+version = "0.1.0"
+edition = "2021"
+description = "Buccaneer: an autonomous AI penetration-testing agent in Rust - rose-local models by default, deterministic authorization gates, MCP-native, no telemetry. Name reservation; implementation in development."
+license = "Apache-2.0"
+keywords = ["security", "pentest", "mcp", "agent", "scanning"]
+categories = ["command-line-utilities"]
